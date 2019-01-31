@@ -14,7 +14,9 @@ TODO: Add repos.
 ## Examples and Interview Projects
 These are projects that were written either for fun or as part of an interview, and are published here to give examples of how I write and manage code.
 
-TODO: Add repos.
+| Name / Link | Description |
+|-------------|-------------|
+| [rpn-calculator](https://github.com/501st-alpha1/rpn-calculator) | A command-line Reverse Polish Notation (RPN) calculator, written as part of the On-Site interview process. |
 
 ## Personal Configs
 These are personal config files and scripts for various programs.  While I publish them here on GitHub, I don't expect them to be used widely (though I have no problem if they are).  The more likely use is someone may be looking for a solution to a specific problem and find it in one of these repos.
