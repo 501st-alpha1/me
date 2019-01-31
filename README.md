@@ -9,6 +9,12 @@ If you see a missing repo, feel free to [open an issue](https://github.com/501st
 ## My Projects
 These are open source projects that I have started, with the intent to be used more widely (though some may still be incomplete).
 
+| Name / Link | Description |
+|-------------|-------------|
+| [Big Gollum](https://github.com/501st-alpha1/big-gollum) | A rails app that lets you make, browse, edit, and eventually control permission to gollum wikis. |
+| [Codeception Data Selector](https://github.com/501st-alpha1/codeception-data-selector) | A Codeception extension to automatically select data from DB based on certain conditions. |
+| [Emacs Org EBS](https://github.com/501st-alpha1/emacs-org-ebs) | An Emacs Org-Mode implementation of Joel Spolsky's Evidence-Based Scheduling. |
+
 TODO: Add repos.
 
 ## Examples and Interview Projects
