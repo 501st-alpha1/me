@@ -1,9 +1,6 @@
 # About Me
 This is a landing page for my GitHub profile, to help you navigate my repos.
 
-# Contributing
-If you see a missing repo, feel free to [open an issue](https://github.com/501st-alpha1/me/issues/new), or if you can guess where the repo should be, [open a pull request](https://github.com/501st-alpha1/me/pulls/new).
-
 # Repos
 
 ## My Projects
@@ -39,3 +36,6 @@ These are personal config files and scripts for various programs.  While I publi
 Most forks are made with the intent to submit PRs against upstream, but I'll note here if they have any other uses.
 
 TODO: Add repos.
+
+# Contributing
+If you see a missing repo, feel free to [open an issue](https://github.com/501st-alpha1/me/issues/new), or if you can guess where the repo should be, [open a pull request](https://github.com/501st-alpha1/me/pulls/new).
