@@ -48,6 +48,10 @@ Most forks are made with the intent to submit PRs against upstream, but I'll not
   <dd>Synchronize your ledger-cli files with your bank.</dd>
 </dl>
 
+From the README:
+
+> ledger-autosync is a program to pull down transactions from your bank and create [ledger](http://ledger-cli.org/) transactions for them. It is designed to only create transactions that are not already present in your ledger files (that is, it will deduplicate transactions). This should make it comparable to some of the automated synchronization features available in products like GnuCash, Mint, etc. In fact, ledger-autosync performs OFX import and synchronization better than all the alternatives I have seen.
+
 Details TODO
 
 ### Other
