@@ -52,7 +52,21 @@ From the README:
 
 > ledger-autosync is a program to pull down transactions from your bank and create [ledger](http://ledger-cli.org/) transactions for them. It is designed to only create transactions that are not already present in your ledger files (that is, it will deduplicate transactions). This should make it comparable to some of the automated synchronization features available in products like GnuCash, Mint, etc. In fact, ledger-autosync performs OFX import and synchronization better than all the alternatives I have seen.
 
-Details TODO
+My contributions:
+
+- [Match autosync payee](https://github.com/egh/ledger-autosync/pull/62)
+
+  New feature to allow renaming payees to a more reasonable value in Ledger files, but still match with what bank says they are.  Discussed design of feature prior to implementation, in [issue #25](https://github.com/egh/ledger-autosync/issues/25).  Also added automated test for new functionality.
+  
+- [Get adjusted memo](https://github.com/egh/ledger-autosync/pull/80)
+
+  Follow-up to above PR, allowing matching to be applied to `MEMO` OFX field if bank uses that instead of `NAME`.  Again discussed design prior in [issue #71](https://github.com/egh/ledger-autosync/issues/71).
+
+- [Add argument to specify ofxclient config file](https://github.com/egh/ledger-autosync/pull/58)
+
+  Small change to allow specifying which config file to use, so I didn't have to edit the hardcoded path of `$HOME/ofxclient.ini` every time.
+  
+- Opened various other issues that I didn't implement solutions for myself (at least, not yet); see [here](https://github.com/egh/ledger-autosync/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3A501st-alpha1).
 
 ### Other
 
