@@ -37,5 +37,28 @@ Most forks are made with the intent to submit PRs against upstream, but I'll not
 
 TODO: Add repos.
 
+## To Sort
+
+- https://github.com/501st-alpha1/blog
+- https://github.com/501st-alpha1/Java-Chess-App
+- https://github.com/501st-alpha1/facebook
+- https://github.com/501st-alpha1/ultimate-compile.el
+- https://github.com/501st-alpha1/nasb-mode
+- https://github.com/501st-alpha1/Commercial-Standard-License
+- https://github.com/501st-alpha1/sqrl-qt
+- https://github.com/501st-alpha1/emacs-auto-formatter
+- https://github.com/501st-alpha1/crypto-signatures
+- https://github.com/501st-alpha1/dwolla.net-v2
+- https://github.com/501st-alpha1/bento4-cli-nuget
+- https://github.com/501st-alpha1/ef-auto-soft-delete
+- https://github.com/501st-alpha1/cross-platform-php-docker-image
+- https://github.com/501st-alpha1/cross-platform-node-docker-image
+- https://github.com/501st-alpha1/laravel-mvp
+- https://github.com/501st-alpha1/ledger-autobot
+- https://github.com/501st-alpha1/cross-platform-docker-images
+- https://github.com/501st-alpha1/docker-ngircd
+- https://github.com/501st-alpha1/XP-to-Emerald-Plugin
+- https://github.com/501st-alpha1/floss-weekly
+
 # Contributing
 If you see a missing repo, feel free to [open an issue](https://github.com/501st-alpha1/me/issues/new), or if you can guess where the repo should be, [open a pull request](https://github.com/501st-alpha1/me/pulls/new).
