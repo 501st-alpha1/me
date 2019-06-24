@@ -35,6 +35,23 @@ These are personal config files and scripts for various programs.  While I publi
 ## Forks
 Most forks are made with the intent to submit PRs against upstream, but I'll note here if they have any other uses.
 
+### ledger-autosync
+
+<dl>
+  <dt>Source</dt>
+  <dd>https://github.com/egh/ledger-autosync</dd>
+  
+  <dt>Fork</dt>
+  <dd>https://github.com/501st-alpha1/ledger-autosync</dd>
+  
+  <dt>Source Description</dt>
+  <dd>Synchronize your ledger-cli files with your bank.</dd>
+</dl>
+
+Details TODO
+
+### Other
+
 TODO: Add repos.
 
 ## To Sort
