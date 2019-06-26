@@ -11,6 +11,7 @@ These are open source projects that I have started, with the intent to be used m
 | [Big Gollum](https://github.com/501st-alpha1/big-gollum) | A rails app that lets you make, browse, edit, and eventually control permission to gollum wikis.  Created by [@oponder](https://github.com/oponder/), I became co-maintainer after helping develop it, and later the project was given to me. |
 | [Codeception Data Selector](https://github.com/501st-alpha1/codeception-data-selector) | A Codeception extension to automatically select data from DB based on certain conditions. |
 | [Emacs Org EBS](https://github.com/501st-alpha1/emacs-org-ebs) | An Emacs Org-Mode implementation of Joel Spolsky's Evidence-Based Scheduling. |
+| [ledger-autobot](https://github.com/501st-alpha1/ledger-autobot) | A bot to automatically run [ledger-autosync](https://github.com/egh/ledger-autosync) and submit a Pull Request with the result.  Currently delaying work on this until I can automate the download of OFX files from banks that don't support OFX Direct Connect. |
 | [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
 | [XP to Emerald Plugin](https://github.com/501st-alpha1/XP-to-Emerald-Plugin) | Plugin for the Bukkit Minecraft server to allow users to convert XP to Emeralds and back again.  Not updated recently for same reasons as above.  Original commit in 2012 (!), and it needs some major refactoring, but It Works! :tm: |
 
@@ -95,7 +96,6 @@ TODO: Add repos.
 - https://github.com/501st-alpha1/cross-platform-php-docker-image
 - https://github.com/501st-alpha1/cross-platform-node-docker-image
 - https://github.com/501st-alpha1/laravel-mvp
-- https://github.com/501st-alpha1/ledger-autobot
 - https://github.com/501st-alpha1/cross-platform-docker-images
 - https://github.com/501st-alpha1/docker-ngircd
 - https://github.com/501st-alpha1/floss-weekly
