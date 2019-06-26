@@ -32,8 +32,8 @@ These are personal config files and scripts for various programs.  While I publi
 | [scott-script](https://github.com/501st-alpha1/scott-script) | Various Bash scripts that I use.  Some of them may be useful for wider audiences, but those should probably be extracted to separate repos eventually. |
 | [scott-server-scripts](https://github.com/501st-alpha1/scott-server-scripts) | Same as above but for scripts that I only need on servers. |
 
-## Forks
-Most forks are made with the intent to submit PRs against upstream, but I'll note here if they have any other uses.
+## Third Party Projects (Forks)
+Below are some selected contributions to third party projects.  Most forks are made with the intent to submit PRs against upstream, but I'll note here if they have any other uses.
 
 ### ledger-autosync
 
