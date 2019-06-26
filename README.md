@@ -14,6 +14,14 @@ These are open source projects that I have started, with the intent to be used m
 | [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
 | [XP to Emerald Plugin](https://github.com/501st-alpha1/XP-to-Emerald-Plugin) | Plugin for the Bukkit Minecraft server to allow users to convert XP to Emeralds and back again.  Not updated recently for same reasons as above.  Original commit in 2012 (!), and it needs some major refactoring, but It Works! :tm: |
 
+### Placeholders
+
+These projects are not very far along in their development, and are mainly here as placeholders for things I want to do in the future.
+
+- [Blog Posts](https://github.com/501st-alpha1/blog)
+- [Emacs Mode for reading the NASB](https://github.com/501st-alpha1/nasb-mode)
+- [Compiling code in Emacs](https://github.com/501st-alpha1/ultimate-compile.el)
+
 TODO: Add repos.
 
 ## Examples and Interview Projects
@@ -76,11 +84,8 @@ TODO: Add repos.
 
 ## To Sort
 
-- https://github.com/501st-alpha1/blog
 - https://github.com/501st-alpha1/Java-Chess-App
 - https://github.com/501st-alpha1/facebook
-- https://github.com/501st-alpha1/ultimate-compile.el
-- https://github.com/501st-alpha1/nasb-mode
 - https://github.com/501st-alpha1/Commercial-Standard-License
 - https://github.com/501st-alpha1/emacs-auto-formatter
 - https://github.com/501st-alpha1/crypto-signatures
