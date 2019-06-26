@@ -1,6 +1,8 @@
 # About Me
 This is a landing page for my GitHub profile, to help you navigate my repos.  If you are overwhelmed by the dozens of [repositories listed on my profile](https://github.com/501st-alpha1?tab=repositories), you are in the right place.  I'll also link here when applying for jobs, so that recruiters / hiring managers don't have to go digging through my profile to find useful information about how I write code and communicate on projects.
 
+I intend for this page to be comprehensive, so if you are looking for some repo in particular, a search for the repo name should bring you to the right place.
+
 # Repos
 
 ## My Projects
