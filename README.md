@@ -22,6 +22,7 @@ These projects are not very far along in their development, and are mainly here 
 - [Blog Posts](https://github.com/501st-alpha1/blog)
 - [Emacs Mode for reading the NASB](https://github.com/501st-alpha1/nasb-mode)
 - [Compiling code in Emacs](https://github.com/501st-alpha1/ultimate-compile.el)
+- [Web app Minimum Viable Product in Laravel](https://github.com/501st-alpha1/laravel-mvp)
 
 TODO: Add repos.
 
@@ -95,7 +96,6 @@ TODO: Add repos.
 - https://github.com/501st-alpha1/ef-auto-soft-delete
 - https://github.com/501st-alpha1/cross-platform-php-docker-image
 - https://github.com/501st-alpha1/cross-platform-node-docker-image
-- https://github.com/501st-alpha1/laravel-mvp
 - https://github.com/501st-alpha1/cross-platform-docker-images
 - https://github.com/501st-alpha1/docker-ngircd
 - https://github.com/501st-alpha1/floss-weekly
