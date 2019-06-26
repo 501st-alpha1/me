@@ -11,6 +11,7 @@ These are open source projects that I have started, with the intent to be used m
 | [Big Gollum](https://github.com/501st-alpha1/big-gollum) | A rails app that lets you make, browse, edit, and eventually control permission to gollum wikis. |
 | [Codeception Data Selector](https://github.com/501st-alpha1/codeception-data-selector) | A Codeception extension to automatically select data from DB based on certain conditions. |
 | [Emacs Org EBS](https://github.com/501st-alpha1/emacs-org-ebs) | An Emacs Org-Mode implementation of Joel Spolsky's Evidence-Based Scheduling. |
+| [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
 
 TODO: Add repos.
 
@@ -80,7 +81,6 @@ TODO: Add repos.
 - https://github.com/501st-alpha1/ultimate-compile.el
 - https://github.com/501st-alpha1/nasb-mode
 - https://github.com/501st-alpha1/Commercial-Standard-License
-- https://github.com/501st-alpha1/sqrl-qt
 - https://github.com/501st-alpha1/emacs-auto-formatter
 - https://github.com/501st-alpha1/crypto-signatures
 - https://github.com/501st-alpha1/dwolla.net-v2
