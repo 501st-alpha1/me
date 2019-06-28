@@ -12,6 +12,7 @@ These are open source projects that I have started, with the intent to be used m
 |-------------|-------------|
 | [Big Gollum](https://github.com/501st-alpha1/big-gollum) | A rails app that lets you make, browse, edit, and eventually control permission to gollum wikis.  Created by [@oponder](https://github.com/oponder/), I became co-maintainer after helping develop it, and later the project was given to me. |
 | [Codeception Data Selector](https://github.com/501st-alpha1/codeception-data-selector) | A Codeception extension to automatically select data from DB based on certain conditions. |
+| [Emacs Auto Formatter](https://github.com/501st-alpha1/emacs-auto-formatter) | An Emacs plugin to automatically format code according to user preferences.  Still WIP. |
 | [Emacs Org EBS](https://github.com/501st-alpha1/emacs-org-ebs) | An Emacs Org-Mode implementation of Joel Spolsky's Evidence-Based Scheduling. |
 | [ledger-autobot](https://github.com/501st-alpha1/ledger-autobot) | A bot to automatically run [ledger-autosync](https://github.com/egh/ledger-autosync) and submit a Pull Request with the result.  Currently delaying work on this until I can automate the download of OFX files from banks that don't support OFX Direct Connect. |
 | [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
@@ -24,6 +25,14 @@ These repos were for the most part not developed by me, but I packaged up existi
 - https://github.com/501st-alpha1/bento4-cli-nuget
 - https://github.com/501st-alpha1/ef-auto-soft-delete
 - https://github.com/501st-alpha1/facebook
+- https://github.com/501st-alpha1/cross-platform-docker-images
+- https://github.com/501st-alpha1/cross-platform-php-docker-image
+
+### Misc
+
+- https://github.com/501st-alpha1/Commercial-Standard-License
+- https://github.com/501st-alpha1/crypto-signatures
+- https://github.com/501st-alpha1/floss-weekly
 
 ### Placeholders
 
@@ -34,6 +43,7 @@ These projects are not very far along in their development, and are mainly here 
 - [Compiling code in Emacs](https://github.com/501st-alpha1/ultimate-compile.el)
 - [Web app Minimum Viable Product in Laravel](https://github.com/501st-alpha1/laravel-mvp)
 - [.NET library for v2 of Dwolla's API](https://github.com/501st-alpha1/dwolla.net-v2)
+- [Docker image for ngircd server](https://github.com/501st-alpha1/docker-ngircd)
 
 TODO: Add repos.
 
@@ -42,6 +52,7 @@ These are projects that were written either for fun or as part of an interview, 
 
 | Name / Link | Description |
 |-------------|-------------|
+| [Java Chess App](https://github.com/501st-alpha1/Java-Chess-App) | Example project I created in Java while still in school.  Not updated much since then. |
 | [rpn-calculator](https://github.com/501st-alpha1/rpn-calculator) | A command-line Reverse Polish Notation (RPN) calculator, written as part of the On-Site interview process. |
 
 ## Personal Configs
@@ -94,18 +105,6 @@ My contributions:
 ### Other
 
 TODO: Add repos.
-
-## To Sort
-
-- https://github.com/501st-alpha1/Java-Chess-App
-- https://github.com/501st-alpha1/Commercial-Standard-License
-- https://github.com/501st-alpha1/emacs-auto-formatter
-- https://github.com/501st-alpha1/crypto-signatures
-- https://github.com/501st-alpha1/cross-platform-php-docker-image
-- https://github.com/501st-alpha1/cross-platform-node-docker-image
-- https://github.com/501st-alpha1/cross-platform-docker-images
-- https://github.com/501st-alpha1/docker-ngircd
-- https://github.com/501st-alpha1/floss-weekly
 
 # Contributing
 If you see a missing repo, feel free to [open an issue](https://github.com/501st-alpha1/me/issues/new), or if you can guess where the repo should be, [open a pull request](https://github.com/501st-alpha1/me/pulls/new).
