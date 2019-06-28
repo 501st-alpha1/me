@@ -17,6 +17,14 @@ These are open source projects that I have started, with the intent to be used m
 | [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
 | [XP to Emerald Plugin](https://github.com/501st-alpha1/XP-to-Emerald-Plugin) | Plugin for the Bukkit Minecraft server to allow users to convert XP to Emeralds and back again.  Not updated recently for same reasons as above.  Original commit in 2012 (!), and it needs some major refactoring, but It Works! :tm: |
 
+### Distribution of 3rd Party Code
+
+These repos were for the most part not developed by me, but I packaged up existing code to make it easier to distribute for my needs.
+
+- https://github.com/501st-alpha1/bento4-cli-nuget
+- https://github.com/501st-alpha1/ef-auto-soft-delete
+- https://github.com/501st-alpha1/facebook
+
 ### Placeholders
 
 These projects are not very far along in their development, and are mainly here as placeholders for things I want to do in the future.
@@ -25,6 +33,7 @@ These projects are not very far along in their development, and are mainly here 
 - [Emacs Mode for reading the NASB](https://github.com/501st-alpha1/nasb-mode)
 - [Compiling code in Emacs](https://github.com/501st-alpha1/ultimate-compile.el)
 - [Web app Minimum Viable Product in Laravel](https://github.com/501st-alpha1/laravel-mvp)
+- [.NET library for v2 of Dwolla's API](https://github.com/501st-alpha1/dwolla.net-v2)
 
 TODO: Add repos.
 
@@ -89,13 +98,9 @@ TODO: Add repos.
 ## To Sort
 
 - https://github.com/501st-alpha1/Java-Chess-App
-- https://github.com/501st-alpha1/facebook
 - https://github.com/501st-alpha1/Commercial-Standard-License
 - https://github.com/501st-alpha1/emacs-auto-formatter
 - https://github.com/501st-alpha1/crypto-signatures
-- https://github.com/501st-alpha1/dwolla.net-v2
-- https://github.com/501st-alpha1/bento4-cli-nuget
-- https://github.com/501st-alpha1/ef-auto-soft-delete
 - https://github.com/501st-alpha1/cross-platform-php-docker-image
 - https://github.com/501st-alpha1/cross-platform-node-docker-image
 - https://github.com/501st-alpha1/cross-platform-docker-images
