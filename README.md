@@ -45,8 +45,6 @@ These projects are not very far along in their development, and are mainly here 
 - [.NET library for v2 of Dwolla's API](https://github.com/501st-alpha1/dwolla.net-v2)
 - [Docker image for ngircd server](https://github.com/501st-alpha1/docker-ngircd)
 
-TODO: Add repos.
-
 ## Examples and Interview Projects
 These are projects that were written either for fun or as part of an interview, and are published here to give examples of how I write and manage code.
 
