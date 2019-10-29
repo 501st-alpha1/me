@@ -33,6 +33,7 @@ These repos were for the most part not developed by me, but I packaged up existi
 - https://github.com/501st-alpha1/Commercial-Standard-License
 - https://github.com/501st-alpha1/crypto-signatures
 - https://github.com/501st-alpha1/floss-weekly
+- https://github.com/501st-alpha1/referrals
 
 ### Placeholders
 
