@@ -100,6 +100,27 @@ My contributions:
   
 - Opened various other issues that I didn't implement solutions for myself (at least, not yet); see [here](https://github.com/egh/ledger-autosync/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3A501st-alpha1).
 
+### ledgercalc
+
+<dl>
+  <dt>Source</dt>
+  <dd>https://github.com/artisancomputer/ledgercalc</dd>
+  
+  <dt>Fork</dt>
+  <dd>https://github.com/501st-alpha1/ledgercalc</dd>
+  
+  <dt>Source Description</dt>
+  <dd>multifunction + variables RPN calculator for ledger </dd>
+</dl>
+
+`ledgercalc` is a Python script to perform simple calculations on [Ledger](https://www.ledger-cli.org/) balances.
+
+My contributions:
+
+- [Allow filtering transactions by payee](https://github.com/artisancomputer/ledgercalc/pull/1)
+
+  Added ability to filter transactions included in balance by payee, rather than only using raw account balance.  Discussed improvments in PR comments; now waiting on owner to merge.
+
 ### Other
 
 TODO: Add repos.
