@@ -121,6 +121,33 @@ My contributions:
 
   Added ability to filter transactions included in balance by payee, rather than only using raw account balance.  Discussed improvments in PR comments; now waiting on owner to merge.
 
+<!--
+
+### REPO
+
+<dl>
+  <dt>Source</dt>
+  <dd>LINK</dd>
+  
+  <dt>Fork</dt>
+  <dd>https://github.com/501st-alpha1/REPO</dd>
+  
+  <dt>Source Description</dt>
+  <dd>DESC</dd>
+</dl>
+
+From the README:
+
+DESC
+
+My contributions:
+
+- [TITLE](PR)
+
+  DESC
+
+-->
+
 ### Other
 
 TODO: Add repos.
