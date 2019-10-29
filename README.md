@@ -149,6 +149,21 @@ My contributions:
 
 -->
 
+### Formatting, typos, and misc small fixes
+
+Because [no pull request is too small!](https://adamralph.com/2015/10/12/no-pull-request-is-too-small/)
+
+- https://github.com/egh/ledger-autosync/pull/82
+- https://github.com/egh/ledger-autosync/pull/81
+- https://github.com/MicrosoftDocs/azure-docs/pull/294
+- https://github.com/BabylonJS/Babylon.js/pull/1138
+- https://github.com/Codeception/Specify/pull/21
+- https://github.com/editorconfig/editorconfig-emacs/pull/48
+- https://github.com/d4be4st/progress_job/pull/7
+- https://github.com/anlutro/laravel-4-smart-errors/pull/27
+- https://github.com/gollum/rugged_adapter/pull/8
+- https://github.com/bbatsov/projectile/pull/677
+
 ### Other
 
 TODO: Add repos.
