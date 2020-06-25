@@ -169,5 +169,15 @@ Because [no pull request is too small!](https://adamralph.com/2015/10/12/no-pull
 
 TODO: Add repos.
 
+<!--
+
+Last updated info:
+
+PRs checked through: ~2019-06-20
+Source repos checked through: ~2019-06-20
+Forks checked through: Unknown
+
+-->
+
 # Contributing
 If you see a missing repo, feel free to [open an issue](https://github.com/501st-alpha1/me/issues/new), or if you can guess where the repo should be, [open a pull request](https://github.com/501st-alpha1/me/pulls/new).
