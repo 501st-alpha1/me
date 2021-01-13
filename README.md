@@ -3,6 +3,20 @@ This is a landing page for my GitHub profile, to help you navigate my repos.  If
 
 I intend for this page to be comprehensive, so if you are looking for some repo in particular, a search for the repo name should bring you to the right place.
 
+# Table of Contents
+
+- About Me
+- Table of Contents
+- Repos
+  - [My Projects](#my-projects)
+    - [Distribution of 3rd Party Code](#distribution-of-3rd-party-code)
+    - [Misc](#misc)
+    - [Placeholders](#placeholders)
+  - [Examples and Interview Projects](#examples-and-interview-projects)
+  - [Personal Configs](#personal-configs)
+  - [Third Party Projects (Forks)](#third-party-projects-forks)
+- [Contributing](#contributing)
+
 # Repos
 
 ## My Projects
