@@ -14,6 +14,7 @@ These are open source projects that I have started, with the intent to be used m
 | [Codeception Data Selector](https://github.com/501st-alpha1/codeception-data-selector) | A Codeception extension to automatically select data from DB based on certain conditions. |
 | [Emacs Auto Formatter](https://github.com/501st-alpha1/emacs-auto-formatter) | An Emacs plugin to automatically format code according to user preferences.  Still WIP. |
 | [Emacs Org EBS](https://github.com/501st-alpha1/emacs-org-ebs) | An Emacs Org-Mode implementation of Joel Spolsky's Evidence-Based Scheduling. |
+| [Git Kraken Boards Exporter](https://github.com/501st-alpha1/git-kraken-boards-exporter) | A Python script to export data from GitKraken Glo Boards using their API. |
 | [git-rstash](https://github.com/501st-alpha1/git-rstash) | A simple Git extension to transfer stashes to and from remote repositories. |
 | [ledger-autobot](https://github.com/501st-alpha1/ledger-autobot) | A bot to automatically run [ledger-autosync](https://github.com/egh/ledger-autosync) and submit a Pull Request with the result.  Currently delaying work on this until I can automate the download of OFX files from banks that don't support OFX Direct Connect. |
 | [sqrl-qt](https://github.com/sqrl-qt/sqrl-qt) | Beginning of project to implement a desktop client for [SQRL](https://sqrl.grc.com/).  No recent activity due to lack of time, and other higher priorities, but may come back to eventually. |
