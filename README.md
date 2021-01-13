@@ -179,6 +179,7 @@ Because [no pull request is too small!](https://adamralph.com/2015/10/12/no-pull
 - https://github.com/anlutro/laravel-4-smart-errors/pull/27
 - https://github.com/gollum/rugged_adapter/pull/8
 - https://github.com/bbatsov/projectile/pull/677
+- https://github.com/arc298/instagram-scraper/pull/568
 
 ### Other
 
@@ -188,7 +189,7 @@ TODO: Add repos.
 
 Last updated info:
 
-PRs checked through: 2020-06-24
+PRs checked through: 2020-12-27
 Source repos checked through: 2021-01-12
 Forks checked through: Unknown
 
