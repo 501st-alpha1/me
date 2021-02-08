@@ -180,6 +180,7 @@ Because [no pull request is too small!](https://adamralph.com/2015/10/12/no-pull
 - https://github.com/gollum/rugged_adapter/pull/8
 - https://github.com/bbatsov/projectile/pull/677
 - https://github.com/arc298/instagram-scraper/pull/568
+- https://github.com/yspreen/sqlcipher/pull/1
 
 ### Other
 
@@ -189,7 +190,7 @@ TODO: Add repos.
 
 Last updated info:
 
-PRs checked through: 2020-12-27
+PRs checked through: 2021-02-08
 Source repos checked through: 2021-01-12
 Forks checked through: Unknown
 
